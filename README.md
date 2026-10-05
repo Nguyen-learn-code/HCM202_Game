@@ -1,7 +1,7 @@
 # 🔥 Đuốc Soi Đường — HCM202 · Nhóm 4
 
 Minigame multiplayer kiểu "đèn xanh đèn đỏ": trả lời câu hỏi để nhận stamina, di chuyển bằng **WASD** khi ngọn đuốc sáng, **dừng lại** khi đuốc tắt.
-Thông điệp: *"Văn hóa soi đường cho quốc dân đi"* — đi khi không có ánh sáng thì phải về lại mốc.
+Thông điệp: *"Đạo đức là cái gốc của người cách mạng"* — rèn luyện bản lĩnh, tu dưỡng bền bỉ để về đích.
 
 **Stack:** Vite + TypeScript + Three.js (client) · Colyseus 0.16 + Express (server) · Railway (deploy)
 

@@ -47,6 +47,12 @@ h1 { font-size: clamp(2rem, 4vw, 2.8rem); text-shadow: 4px 4px 0 var(--nghe); }
   background: rgba(246, 196, 69, .8); border-left: 2px dashed rgba(42, 26, 18, .25); border-right: 2px dashed rgba(42, 26, 18, .25); transform: none; }
 .pill { display: inline-block; padding: 4px 14px; border-radius: var(--ellipse); font-family: var(--hand); font-size: 1.05rem; font-weight: 400;
   background: var(--nghe); border: var(--lw) solid var(--line); box-shadow: var(--hard-sm); transform: none; }
+.morals-strip { display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;
+  font-family: var(--sans); font-weight: 800; font-size: .88rem; letter-spacing: .02em;
+  color: var(--ink); background: color-mix(in srgb, var(--sen) 20%, var(--card));
+  border: var(--lw) solid var(--line); padding: 5px 16px; border-radius: var(--ellipse);
+  box-shadow: var(--hard-sm); align-self: center; margin-top: 2px; }
+.morals-strip span { color: var(--son); font-weight: 800; }
 
 /* ---------- nền màn phủ: cảnh 3D mờ phía sau + doodle mực vàng (đèn lồng, ngọn lửa, hoa sen, sao) ---------- */
 .screen { position: fixed; inset: 0; z-index: 10; }

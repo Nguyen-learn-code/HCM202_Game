@@ -33,9 +33,9 @@ export const CFG = {
 // 3 khu, toạ độ theo ĐƯỜNG: s = mét tính từ vạch xuất phát, d = lệch sang phải(+)/trái(-) so với tim đường.
 // Đặt lệch 1 bên đường -> muốn ăn thưởng phải đi vòng. bonus = stamina cộng thêm mỗi câu đúng khi đứng trong khu.
 export const ZONES = [
-  { id: 1, name: 'Khu 1', s0: 50,  s1: 70,  d0: -7.5, d1: -2, color: 0xd4a017, bonus: 5 },
-  { id: 2, name: 'Khu 2', s0: 105, s1: 125, d0: 2,    d1: 7.5, color: 0xc0392b, bonus: 7 },
-  { id: 3, name: 'Khu 3', s0: 160, s1: 180, d0: -7.5, d1: -2, color: 0xb0703a, bonus: 10 },
+  { id: 1, name: 'Khu 1 (Trung - Hiếu)', s0: 50,  s1: 70,  d0: -7.5, d1: -2, color: 0xd4a017, bonus: 5 },
+  { id: 2, name: 'Khu 2 (Cần - Kiệm)',   s0: 105, s1: 125, d0: 2,    d1: 7.5, color: 0xc0392b, bonus: 7 },
+  { id: 3, name: 'Khu 3 (Liêm - Chính)', s0: 160, s1: 180, d0: -7.5, d1: -2, color: 0x2a8f79, bonus: 10 },
 ];
 
 export const TEAM_COLORS = [
