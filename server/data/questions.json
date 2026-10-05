@@ -1,332 +1,167 @@
 [
   {
-    "q": "Theo Hồ Chí Minh, văn hóa phải sửa đổi những thói xấu nào?",
+    "q": "Theo quan điểm của Hồ Chí Minh, vì sao người cách mạng bắt buộc phải lấy đạo đức làm \"gốc\", làm \"nền tảng tinh thần\"?",
     "options": [
-      "Tham nhũng, lười biếng, phù hoa, xa xỉ",
-      "Bảo thủ, trì trệ, giáo điều",
-      "Quan liêu, mệnh lệnh, hình thức",
-      "Cá nhân, cục bộ, bè phái"
+      "Vì làm cách mạng là sự nghiệp gian khổ, phức tạp; muốn gánh được việc nặng và đi được đường xa thì bản thân phải có sức mạnh từ đạo đức.",
+      "Vì khi đã có đạo đức cách mạng thì tự khắc sẽ giỏi chuyên môn mà không cần phải học tập thêm.",
+      "Vì đạo đức là con đường ngắn nhất giúp người cán bộ nhanh chóng đạt được vị trí cao và quyền lực.",
+      "Vì đạo đức là tiêu chuẩn duy nhất được dùng để xếp loại bằng cấp chuyên môn của cán bộ."
     ],
     "a": 0,
-    "quote": "\"Văn hóa phải sửa đổi tham nhũng, lười biếng, phù hoa, xa xỉ\" [GT tr.113]"
+    "quote": "Làm cách mạng là việc to tát, gian khổ; có đạo đức làm gốc mới gánh được nặng, đi được xa và lãnh đạo được quần chúng."
   },
   {
-    "q": "\"Văn hóa soi đường cho quốc dân đi\" gắn với phương diện động lực nào?",
+    "q": "Theo Hồ Chí Minh, trong mối quan hệ giữa \"Đức\" và \"Tài\", yếu tố nào đóng vai trò là \"gốc\", là \"nền tảng\" của người cách mạng?",
     "options": [
-      "Văn hóa văn nghệ",
-      "Văn hóa chính trị",
-      "Văn hóa pháp luật",
-      "Văn hóa giáo dục"
-    ],
-    "a": 1,
-    "quote": "Văn hóa chính trị là động lực \"soi đường cho quốc dân đi\" [GT tr.116]"
-  },
-  {
-    "q": "Hội nghị Văn hóa toàn quốc lần thứ nhất diễn ra ngày nào?",
-    "options": [
-      "19/8/1945",
-      "2/9/1945",
-      "24/11/1946",
-      "19/12/1946"
+      "Tài năng chuyên môn.",
+      "Địa vị xã hội.",
+      "Đạo đức cách mạng.",
+      "Kinh nghiệm công tác."
     ],
     "a": 2,
-    "quote": "24/11/1946, Nhà hát Lớn Hà Nội; nay là Ngày Văn hóa Việt Nam (NQ 80-NQ/TW, 2026)"
+    "quote": "Đạo đức là gốc, là nền tảng. Có tài mà không có đạo đức thì vô dụng, có đạo đức mà không có tài thì làm việc gì cũng khó [GT tr.218 & 222]"
   },
   {
-    "q": "Trong tư tưởng Hồ Chí Minh, văn hóa có vai trò gì?",
+    "q": "Khác với đạo đức phong kiến hay đạo đức tư sản chỉ phục vụ cho lợi ích của giai cấp thống trị, mục đích tối cao của Đạo đức cách mạng theo Hồ Chí Minh là nhằm phục vụ cho ai?",
     "options": [
-      "Chỉ là mục tiêu",
-      "Chỉ là động lực",
-      "Vừa là mục tiêu, vừa là động lực",
-      "Phụ thuộc hoàn toàn kinh tế"
-    ],
-    "a": 2,
-    "quote": "Văn hóa vừa là mục tiêu, vừa là động lực của sự nghiệp cách mạng [GT tr.115–116]"
-  },
-  {
-    "q": "\"Cần tức là ...\" — Bác định nghĩa thế nào?",
-    "options": [
-      "Làm việc thật nhiều giờ",
-      "Siêng năng, chăm chỉ, cố gắng dẻo dai",
-      "Tiết kiệm thời gian",
-      "Không ham danh lợi"
-    ],
-    "a": 1,
-    "quote": "\"Cần tức là siêng năng, chăm chỉ, cố gắng dẻo dai\" [GT tr.122]"
-  },
-  {
-    "q": "Thức trắng đêm trước deadline để làm bài: theo Bác, thiếu điều gì của chữ Cần?",
-    "options": [
-      "Thiếu sức khỏe",
-      "Thiếu kế hoạch",
-      "Thiếu tiền",
-      "Không thiếu gì"
-    ],
-    "a": 1,
-    "quote": "\"Muốn cho chữ Cần có nhiều kết quả hơn, thì phải có kế hoạch cho mọi công việc\" [GT tr.122]"
-  },
-  {
-    "q": "Mua khóa học chuyên ngành để nâng cao năng lực là:",
-    "options": [
-      "Hoang phí",
-      "Bủn xỉn",
-      "Kiệm đúng, vì đó là việc đáng tiêu",
-      "Phù hoa"
-    ],
-    "a": 2,
-    "quote": "\"Tiết kiệm không phải là bủn xỉn… Việc đáng tiêu mà không tiêu, là bủn xỉn\" [GT tr.122]"
-  },
-  {
-    "q": "Bác ví Cần và Kiệm như thế nào?",
-    "options": [
-      "Hai bánh xe",
-      "Hai chân của con người",
-      "Hai cánh chim",
-      "Hai mặt đồng xu"
-    ],
-    "a": 1,
-    "quote": "\"Cần với kiệm, phải đi đôi với nhau, như hai chân của con người\" [GT tr.122]"
-  },
-  {
-    "q": "Chuẩn mực nào là \"nội dung cốt lõi\" của đạo đức cách mạng?",
-    "options": [
-      "Trung với nước, hiếu với dân",
-      "Tinh thần quốc tế trong sáng",
-      "Cần, kiệm, liêm, chính, chí công vô tư",
-      "Thương yêu con người"
-    ],
-    "a": 2,
-    "quote": "Cần, kiệm, liêm, chính, chí công vô tư là nội dung cốt lõi của đạo đức cách mạng [GT tr.121]"
-  },
-  {
-    "q": "Nhờ AI viết hết báo cáo để tiết kiệm công sức là:",
-    "options": [
-      "Kiệm đúng chỗ",
-      "Kiệm sai chỗ, trái chữ Cần và chữ Liêm",
-      "Cần cù",
-      "Sáng tạo"
-    ],
-    "a": 1,
-    "quote": "Cần là \"tự lực cánh sinh, không lười biếng\" [GT tr.122]; Liêm: \"chỉ có một thứ ham là ham học\" [GT tr.122]"
-  },
-  {
-    "q": "Nguyên tắc nào KHÔNG thuộc 3 nguyên tắc xây dựng đạo đức cách mạng?",
-    "options": [
-      "Nói đi đôi với làm, nêu gương",
-      "Xây đi đôi với chống",
-      "Tu dưỡng đạo đức suốt đời",
-      "Lấy kinh tế làm gốc"
-    ],
-    "a": 3,
-    "quote": "3 nguyên tắc: nêu gương · xây đi đôi với chống · tu dưỡng suốt đời [GT tr.125–129]"
-  },
-  {
-    "q": "\"Ngọc càng mài càng sáng, vàng càng luyện càng trong\" minh họa nguyên tắc nào?",
-    "options": [
-      "Nêu gương",
-      "Xây đi đôi với chống",
-      "Tu dưỡng đạo đức suốt đời",
-      "Chí công vô tư"
-    ],
-    "a": 2,
-    "quote": "\"Đạo đức cách mạng không phải trên trời sa xuống…\" [GT tr.129]"
-  },
-  {
-    "q": "Theo Hồ Chí Minh, con người có vai trò gì?",
-    "options": [
-      "Vừa là mục tiêu, vừa là động lực",
-      "Chỉ là công cụ",
-      "Chỉ là mục tiêu",
-      "Chỉ là động lực"
+      "Phụng sự Tổ quốc, giải phóng dân tộc, giải phóng con người và mang lại hạnh phúc cho nhân dân.",
+      "Xây dựng danh tiếng cá nhân và củng cố vị trí quyền lực cho người lãnh đạo.",
+      "Duy trì trật tự phong kiến và bảo vệ đặc quyền cho tầng lớp thượng lưu.",
+      "Hướng tới sự tu hành, thoát tục và rời xa các hoạt động thực tiễn của xã hội."
     ],
     "a": 0,
-    "quote": "Con người là \"vốn quý nhất, động lực, nhân tố quyết định thành công\" [GT tr.130–131]"
+    "quote": "Đạo đức cách mạng là đạo đức hành động vì sự nghiệp giải phóng dân tộc, giải phóng giai cấp và hết lòng phụng sự Tổ quốc, phục vụ nhân dân."
   },
   {
-    "q": "Chương 4: Hồ Chí Minh gọi tham ô, lãng phí, quan liêu là gì?",
+    "q": "Chuẩn mực đạo đức cách mạng nào được Hồ Chí Minh xác định là phẩm chất bao trùm, quan trọng nhất và chi phối các phẩm chất khác?",
     "options": [
-      "Bệnh cá nhân",
-      "\"Giặc nội xâm\"",
-      "Thói quen xấu",
-      "Tàn dư phong kiến"
+      "Cần, kiệm, liêm, chính, chí công vô tư.",
+      "Trung với nước, hiếu với dân.",
+      "Thương yêu con người, sống có tình có nghĩa.",
+      "Tinh thần quốc tế trong sáng."
     ],
     "a": 1,
-    "quote": "Lãng phí sức lao động, thời giờ, tiền của là \"giặc nội xâm\" [GT tr.88]"
+    "quote": "\"Trung với nước, hiếu với dân là phẩm chất đạo đức bao trùm quan trọng nhất và chi phối các phẩm chất khác\" [GT tr.223]"
   },
   {
-    "q": "Với sinh viên, thứ cần KIỆM nhất theo tinh thần của Bác là:",
+    "q": "Bước chuyển cách mạng sâu sắc trong chuẩn mực \"Trung - Hiếu\" của Hồ Chí Minh so với đạo đức phong kiến cũ là gì?",
     "options": [
-      "Tiền ăn sáng",
-      "Thời giờ",
-      "Điện thoại",
-      "Quần áo"
+      "Chuyển từ \"Trung với dân\" sang \"Trung với vua\".",
+      "Chuyển từ \"Trung với vua, hiếu với cha mẹ\" sang \"Trung với nước, hiếu với toàn dân, với đồng bào\".",
+      "Chuyển từ \"Trung với bạn bè\" sang \"Hiếu với tổ chức\".",
+      "Chuyển từ \"Hiếu với toàn dân\" sang \"Hiếu với người lãnh đạo\"."
     ],
     "a": 1,
-    "quote": "Kiệm là tiết kiệm \"sức lao động, thì giờ, tiền của\" [GT tr.122]; lãng phí thời giờ [GT tr.88]"
+    "quote": "Chuyển từ \"Trung với vua, hiếu với cha mẹ\" sang \"Trung với nước, hiếu với toàn dân, với đồng bào\" [GT tr.223]"
   },
   {
-    "q": "\"Một tấm gương sống còn có giá trị hơn ... bài diễn văn tuyên truyền\". Điền số còn thiếu:",
+    "q": "Hồ Chí Minh đã ví 4 đức tính \"Cần, Kiệm, Liêm, Chính\" với các yếu tố tự nhiên nào?",
     "options": [
-      "Mười",
-      "Một trăm",
-      "Một nghìn",
-      "Vạn"
+      "Bốn mùa của trời, bốn phương của đất.",
+      "Bốn đại dương, bốn châu lục.",
+      "Bốn loài cây quý, bốn loài hoa đẹp.",
+      "Bốn thời kỳ lịch sử, bốn giai cấp xã hội."
+    ],
+    "a": 0,
+    "quote": "\"Trời có bốn mùa: Xuân, Hạ, Thu, Đông. Đất có bốn phương: Đông, Tây, Nam, Bắc. Người có bốn đức: Cần, Kiệm, Liêm, Chính. Thiếu một đức, thì không thành người\" [GT tr.229]"
+  },
+  {
+    "q": "Theo Hồ Chí Minh, phẩm chất \"Chí công vô tư\" đòi hỏi người cách mạng phải làm gì?",
+    "options": [
+      "Thu vén lợi ích cho cá nhân trước rồi mới đến tập thể.",
+      "Hoàn toàn vì lợi ích chung, không vì tư lợi, hết sức công tâm, đặt lợi ích của Đảng và nhân dân lên trên hết.",
+      "Bỏ qua mọi khuyết điểm của đồng nghiệp để giữ gìn hòa khí.",
+      "Chỉ làm những việc được giao, không quan tâm đến công việc chung."
     ],
     "a": 1,
-    "quote": "\"Một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền\" [GT tr.126]"
+    "quote": "\"Chí công vô tư là hoàn toàn vì lợi ích chung, không vì tư lợi... lo trước thiên hạ, vui sau thiên hạ\" [GT tr.228]"
   },
   {
-    "q": "Theo Hồ Chí Minh, những vấn đề nào cần được coi trọng ngang nhau?",
+    "q": "Biểu hiện tập trung và cao nhất của tình thương yêu con người trong tư tưởng Hồ Chí Minh là gì?",
     "options": [
-      "Chính trị, quân sự, ngoại giao, kinh tế",
-      "Chính trị, kinh tế, văn hóa, xã hội",
-      "Kinh tế, giáo dục, y tế, văn hóa",
-      "Văn hóa, đạo đức, pháp luật, giáo dục"
+      "Mong muốn cá nhân mình được sống sung túc, quyền quý.",
+      "Ham muốn tột bậc làm sao cho nước hoàn toàn độc lập, dân hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành.",
+      "Dành thời gian viết thật nhiều tác phẩm lý luận suông.",
+      "Ban phát tiền bạc cá nhân cho một số ít người quen biết."
     ],
     "a": 1,
-    "quote": "Chính trị, kinh tế, văn hóa, xã hội là bốn vấn đề quan trọng ngang nhau [GT tr.113]"
+    "quote": "Ham muốn tột bậc làm sao cho nước hoàn toàn độc lập, dân hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành [GT tr.230]"
   },
   {
-    "q": "\"Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải ...\"",
+    "q": "Căn dặn của Bác Hồ về việc tiếp thu lý luận Mác - Lênin trong chuẩn mực thương yêu con người, sống có tình có nghĩa là gì?",
     "options": [
-      "Trồng rừng",
-      "Trồng người",
-      "Xây trường",
-      "Giữ đất"
+      "Học thuộc lòng thật nhiều sách lý luận để đem ra tranh luận.",
+      "Hiểu chủ nghĩa Mác - Lênin là phải sống với nhau có tình có nghĩa.",
+      "Chỉ cần giỏi lý luận suông, không cần quan tâm đến cách ứng xử với đồng chí.",
+      "Đặt lý luận lên trên tình cảm đồng chí, đồng bào."
     ],
     "a": 1,
-    "quote": "\"Vì lợi ích trăm năm thì phải trồng người\" — sự nghiệp của văn hóa giáo dục [GT tr.131]"
+    "quote": "\"Hiểu chủ nghĩa Mác - Lênin là phải sống với nhau có tình có nghĩa. Nếu thuộc bao nhiêu sách mà sống không có tình có nghĩa thì sao gọi là hiểu chủ nghĩa Mác - Lênin được\" [GT tr.231]"
   },
   {
-    "q": "Tác phẩm \"Cần, Kiệm, Liêm, Chính\" (6/1949) được Bác ký bút danh gì?",
+    "q": "Điền từ còn thiếu vào câu nói nổi tiếng của Hồ Chí Minh về phương pháp giáo dục đạo đức: \"Muốn hướng dẫn nhân dân, mình phải làm ... cho người ta bắt chước\"?",
     "options": [
-      "Trần Dân Tiên",
-      "T. Lan",
-      "Lê Quyết Thắng",
-      "Tân Sinh"
+      "Kim chỉ nam",
+      "Mực thước",
+      "Tấm bia",
+      "Ngọn đèn"
+    ],
+    "a": 1,
+    "quote": "\"Quần chúng chỉ quý mến những người có tư cách, đạo đức. Muốn hướng dẫn nhân dân, mình phải làm mực thước cho người ta bắt chước\" [GT tr.235]"
+  },
+  {
+    "q": "Trong bài viết năm 1923, Hồ Chí Minh đã khẳng định sức mạnh lay động của việc nêu gương đạo đức qua câu nói nào?",
+    "options": [
+      "\"Một tấm gương sống còn có giá trị hơn mười bài diễn văn tuyên truyền.\"",
+      "\"Một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền.\"",
+      "\"Một tấm gương sống còn có giá trị hơn một ngàn bài diễn văn tuyên truyền.\"",
+      "\"Một tấm gương sống còn có giá trị hơn mười nghìn bài diễn văn tuyên truyền.\""
+    ],
+    "a": 1,
+    "quote": "\"Nói chung thì các dân tộc phương Đông đều giàu tình cảm, và đối với họ một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền\" [GT tr.234]"
+  },
+  {
+    "q": "Trong nguyên tắc \"Nói đi đôi với làm\", Hồ Chí Minh kiên quyết chống lại thói xấu nào ở một số cán bộ?",
+    "options": [
+      "Thói cẩn trọng, ít nói.",
+      "Thói hăng hái nhận nhiệm vụ gian khó.",
+      "Thói đạo đức giả, nói một đằng làm một nẻo, nói nhiều làm ít.",
+      "Thói hay lắng nghe ý kiến quần chúng."
     ],
     "a": 2,
-    "quote": "Bút danh Lê Quyết Thắng, đăng báo Cứu quốc (TTXVN/VietnamPlus, 2024)"
+    "quote": "\"Nói đi đôi với làm đối lập hoàn toàn với thói đạo đức giả, nói một đằng làm một nẻo, nói nhiều làm ít, thậm chí nói mà không làm\" [GT tr.233]"
   },
   {
-    "q": "Theo Bác, \"Chính\" nghĩa là gì?",
+    "q": "Trong nguyên tắc \"Xây đi đôi với chống\", Hồ Chí Minh chỉ rõ phương châm hành đạo đức là gì?",
     "options": [
-      "Làm theo cấp trên",
-      "Không tà, thẳng thắn, đứng đắn",
-      "Giữ đúng giờ giấc",
-      "Không tiêu xài"
+      "Lấy chống làm chính, xây là phụ.",
+      "Lấy xây làm chính, chống nhằm mục đích để xây.",
+      "Chỉ tập trung chống hành vi sai trái, không cần xây dựng chuẩn mực mới.",
+      "Coi xây và chống là hai công việc tách rời, không liên quan đến nhau."
     ],
     "a": 1,
-    "quote": "\"Chính nghĩa là không tà, nghĩa là thẳng thắn, đứng đắn\" [GT tr.122–123]"
+    "quote": "\"Xây phải đi đôi với chống, muốn xây phải chống, chống nhằm mục đích xây, lấy xây làm chính\" [GT tr.236]"
   },
   {
-    "q": "Năm 1987, tổ chức nào ghi nhận Hồ Chí Minh là \"Anh hùng giải phóng dân tộc, Nhà văn hóa kiệt xuất Việt Nam\"?",
+    "q": "Theo Hồ Chí Minh, đâu là nguồn gốc của mọi tệ nạn (tham ô, lãng phí, quan liêu) – được coi là \"giặc nội xâm\", \"kẻ địch ở bên trong\"?",
     "options": [
-      "UNICEF",
-      "UNESCO",
-      "WHO",
-      "ASEAN"
-    ],
-    "a": 1,
-    "quote": "Nghị quyết 24C/18.6.5 của Đại hội đồng UNESCO, khóa họp 24 (1987) [GT tr.112]"
-  },
-  {
-    "q": "Hồ Chí Minh đưa ra quan niệm về văn hóa (\"Vì lẽ sinh tồn cũng như mục đích của cuộc sống...\") vào thời gian nào?",
-    "options": [
-      "8/1943",
-      "9/1945",
-      "11/1946",
-      "6/1949"
+      "Chủ nghĩa cá nhân.",
+      "Tinh thần tập thể.",
+      "Ý thức kỷ luật cao.",
+      "Lòng tự trọng."
     ],
     "a": 0,
-    "quote": "Quan niệm văn hóa tháng 8/1943 [GT tr.113; TT t.3, tr.458]"
+    "quote": "\"Nguồn gốc của mọi thứ tệ nạn là chủ nghĩa cá nhân... Phải kiên quyết quét sạch chủ nghĩa cá nhân, nâng cao đạo đức cách mạng\" [GT tr.238]"
   },
   {
-    "q": "Trong kháng chiến, nền văn hóa mới được xây dựng theo 3 tính chất nào?",
+    "q": "Để nhấn mạnh tính chất liên tục, bền bỉ của nguyên tắc \"Tu dưỡng đạo đức suốt đời\", Hồ Chí Minh đã sử dụng câu so sánh nào?",
     "options": [
-      "Dân tộc, khoa học, đại chúng",
-      "Hiện đại, hội nhập, sáng tạo",
-      "Truyền thống, cách mạng, quốc tế",
-      "Nhân văn, dân chủ, pháp quyền"
+      "\"Đạo đức cách mạng như ngọc càng mài càng sáng, vàng càng luyện càng trong.\"",
+      "\"Đạo đức cách mạng như ngọn núi càng cao càng lạnh.\"",
+      "\"Đạo đức cách mạng như cây cổ thụ càng già càng chắc.\"",
+      "\"Đạo đức cách mạng như dòng sông càng chảy càng sâu.\""
     ],
     "a": 0,
-    "quote": "Nền văn hóa mới: dân tộc, khoa học, đại chúng [GT tr.117–118]"
-  },
-  {
-    "q": "\"Văn hóa là một mặt trận, anh chị em văn nghệ sĩ là ... trên mặt trận ấy\". Điền từ còn thiếu:",
-    "options": [
-      "người lính",
-      "chiến sĩ",
-      "người thợ",
-      "người thầy"
-    ],
-    "a": 1,
-    "quote": "\"Anh chị em văn nghệ sĩ là chiến sĩ trên mặt trận ấy\" [GT tr.116–117]"
-  },
-  {
-    "q": "Bác giáo dục học sinh, sinh viên toàn diện \"Đức, Trí, Thể, Mỹ\". Yếu tố nào là GỐC?",
-    "options": [
-      "Trí",
-      "Thể",
-      "Mỹ",
-      "Đức"
-    ],
-    "a": 3,
-    "quote": "\"Nếu không có đạo đức cách mạng thì có tài cũng vô dụng\" [GT tr.120]"
-  },
-  {
-    "q": "Theo Bác, học để làm gì?",
-    "options": [
-      "Để lấy bằng cấp",
-      "Để làm việc, làm người, làm cán bộ",
-      "Để làm quan",
-      "Để đi nước ngoài"
-    ],
-    "a": 1,
-    "quote": "\"Học để làm việc, làm người, làm cán bộ\" [GT tr.120]"
-  },
-  {
-    "q": "Phẩm chất đạo đức BAO TRÙM NHẤT trong 4 chuẩn mực là:",
-    "options": [
-      "Cần, kiệm, liêm, chính",
-      "Trung với nước, hiếu với dân",
-      "Thương yêu con người",
-      "Tinh thần quốc tế trong sáng"
-    ],
-    "a": 1,
-    "quote": "Trung với nước, hiếu với dân là phẩm chất bao trùm nhất [GT tr.120–121]"
-  },
-  {
-    "q": "Bác ví 4 đức Cần, Kiệm, Liêm, Chính như gì?",
-    "options": [
-      "Bốn mùa của trời, bốn phương của đất",
-      "Bốn bánh của xe",
-      "Bốn mặt của khối vuông",
-      "Bốn cột của ngôi nhà"
-    ],
-    "a": 0,
-    "quote": "\"Thiếu một đức, thì không thành người\" [GT tr.123]"
-  },
-  {
-    "q": "Theo Bác, muốn LIÊM được thì trước hết phải:",
-    "options": [
-      "Cần",
-      "Kiệm",
-      "Chính",
-      "Chí công vô tư"
-    ],
-    "a": 1,
-    "quote": "\"Có Kiệm mới Liêm được\" [GT tr.122]"
-  },
-  {
-    "q": "Trong tư tưởng Hồ Chí Minh, mục tiêu giải phóng cuối cùng (cao nhất) là:",
-    "options": [
-      "Giải phóng dân tộc",
-      "Giải phóng xã hội",
-      "Giải phóng giai cấp",
-      "Giải phóng con người"
-    ],
-    "a": 3,
-    "quote": "Dân tộc → xã hội → giai cấp → con người [GT tr.130–131]"
+    "quote": "\"Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hằng ngày mà phát triển và củng cố. Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong\" [GT tr.240]"
   }
 ]

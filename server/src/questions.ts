@@ -12,7 +12,7 @@ export function sanitize(raw: unknown): Question[] {
     const options = Array.isArray(r?.options) ? r.options.map(String).filter(Boolean).slice(0, 4) : [];
     const a = Number(r?.a);
     if (!r?.q || options.length < 2 || !Number.isInteger(a) || a < 0 || a >= options.length) return [];
-    return [{ q: String(r.q).slice(0, 300), options: options.map((o: string) => o.slice(0, 120)), a, quote: String(r.quote ?? '').slice(0, 300) }];
+    return [{ q: String(r.q).slice(0, 500), options: options.map((o: string) => o.slice(0, 250)), a, quote: String(r.quote ?? '').slice(0, 500) }];
   }).slice(0, 50);
 }
 
