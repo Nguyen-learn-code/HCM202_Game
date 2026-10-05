@@ -1,4 +1,4 @@
-# 🔥 Đuốc Soi Đường — HCM202 · Nhóm 9
+# 🔥 Đuốc Soi Đường — HCM202 · Nhóm 4
 
 Minigame multiplayer kiểu "đèn xanh đèn đỏ": trả lời câu hỏi để nhận stamina, di chuyển bằng **WASD** khi ngọn đuốc sáng, **dừng lại** khi đuốc tắt.
 Thông điệp: *"Văn hóa soi đường cho quốc dân đi"* — đi khi không có ánh sáng thì phải về lại mốc.
